@@ -18,3 +18,5 @@ the libappindicator sources and then add the library to `LD_LIBRARY_PATH`.
 The library must be build as 32 bit.
 
 Note: this is similar to setting `export STEAM_FRAME_FORCE_CLOSE=0` before launching Steam
+
+See also https://github.com/darealshinji/steamwm
